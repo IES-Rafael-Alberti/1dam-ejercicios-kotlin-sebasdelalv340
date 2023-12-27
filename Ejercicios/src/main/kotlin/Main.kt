@@ -11,7 +11,12 @@ fun main() {
     //ejU24()
     //ejU25()
     //ejU26()
-    ejU27()
+    //ejU27()
+    //ej2U2()
+    //ej3U2()
+    //ej6U2()
+    //ej8U2()
+    ej10U2()
 }
 
 fun mostrarMenuPpal() {
