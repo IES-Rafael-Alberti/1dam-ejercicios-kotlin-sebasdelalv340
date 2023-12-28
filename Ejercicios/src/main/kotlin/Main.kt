@@ -18,6 +18,10 @@ fun main() {
     //ej8U2()
     //ej10U2()
     //ej2U2iterativa()
+    //ej4U2Iterativa()
+    //ej6U2Iterativa()
+    //ej7U2Iterativa()
+    ej8U2Iterativa()
 }
 
 fun mostrarMenuPpal() {
